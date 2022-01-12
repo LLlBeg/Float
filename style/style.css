@@ -62,7 +62,7 @@
 
 .right_position {
     width: 390px;
-    margin-left: 730px;
+    float: right;
 }
 
 
