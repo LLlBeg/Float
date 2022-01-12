@@ -42,10 +42,6 @@
     width: 400px;
 }
 
-.left_box, .first_half, .second_half{
-    width: 49%;
-}
-
 .left_box{
     width: 189px;
     height: 156px;
@@ -54,6 +50,7 @@
 }
 
 .first_half, .second_half{
+    width: 189px;
     height: 70px;
     float: right;
     background: #F09B9B;
@@ -68,12 +65,6 @@
     margin-left: 715px;
 }
 
-.right_box{
-    width: 189px;
-    height: 156px;
-    background: #F09B9B;
-    float: right; 
-}
 
 
 
